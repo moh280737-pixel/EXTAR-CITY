@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>EXTRA CITY</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- ???? ?????? -->
+
+<div id="intro">
+
+    <img src="logo.png" class="intro-logo">
+
+    <div class="intro-text">
+        EXTRA CITY
+    </div>
+
+</div>
+
+
+
+<!-- ?????? -->
+
+<div id="app">
+
+
+<div class="police-frame"></div>
+
+
+
+<header>
+
+<img src="logo.png" class="logo">
+
+<h2>EXTRA CITY</h2>
+
+</header>
+
+
+
+
+<!-- ?????? ???????? -->
+
+<section id="home" class="page active">
+
+
+<div class="box">
+
+IP: 91.121.237.128:7770
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- ???? ??????? -->
+
+<section id="links" class="page">
+
+
+<div class="box button">
+
+<a href="https://discord.gg/hUj84qvg9" target="_blank">
+
+DISCORD SA-MP
+
+</a>
+
+</div>
+
+
+
+<div class="box button">
+
+<a href="https://discord.gg/8CQV7AvdTr" target="_blank">
+
+EXTRA WHITELIST
+
+</a>
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- ???? ????????? -->
+
+<section id="about" class="page">
+
+
+<h1>
+
+EXTRA CITY
+
+</h1>
+
+
+<h2>
+
+TOP 1 ALGERIA
+
+</h2>
+
+
+<div class="code">
+
+INDEX
+
+<br>
+
+STYLE
+
+<br>
+
+SCRIPT
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- ?????? ?????? -->
+
+<nav>
+
+
+<button onclick="openPage('home')">
+
+??
+
+</button>
+
+
+
+<button onclick="openPage('links')">
+
+?
+
+</button>
+
+
+
+<button onclick="openPage('about')">
+
+?
+
+</button>
+
+
+</nav>
+
+
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
